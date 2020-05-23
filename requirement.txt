@@ -1,0 +1,6 @@
+pandas==1.0.3
+scipy==1.4.1
+matplotlib==3.2.1
+numpy==1.18.4
+qutip==4.5.1
+ipython==5.5.0
